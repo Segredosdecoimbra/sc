@@ -21,11 +21,11 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 36,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///C:/Users/kathy/Desktop/Eme",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -1152,7 +1152,7 @@
                 "showTitle": true,
                 "title": "Abril en Coimbra",
                 "showText": true,
-                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + Cerveza por 2,50€",
+                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + caña por 2,50€ (o 3€ con doble)",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1166,7 +1166,7 @@
                 "showTitle": true,
                 "title": "Abril en Coimbra",
                 "showText": true,
-                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + Cerveza por 2,50€",
+                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + caña por 2,50€ (o 3€ con doble)",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1539,8 +1539,13 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Avenida de España nº26, Calle de Cervantes local 5E<br>Majadahonda, Madrid",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contacto</b></span></font><br>\nEmail: SegredosDeCoimbra@gmail.com<br>Teléfono: 910 56 89 00",
-          "text3": ""
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contacto</b></span></font><br>\nEmail: SegredosDeCoimbra@gmail.com<br>Teléfono: 910 56 89 00<br>",
+          "text3": "",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_styles": {
@@ -1626,7 +1631,32 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\" aria-expanded=\"false\">Promociones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1\" aria-expanded=\"false\">Sobre nosotros</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Fotos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-b\">Nuestro local<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Carta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-3\">Ubicación</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-2\" aria-expanded=\"false\">Promociones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header5-1\" aria-expanded=\"false\">Sobre nosotros</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Fotos</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery2-b\">Nuestro local<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#features3-g\">Carta</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#map2-3\">Ubicación</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<b>Horario</b><b><br></b><br>Lunes a Viernes: de 8:00 a 21:00<br>Sábados: de 9:30 a 21:00<br>Domingos y Festivos: de 9:30 a 15:30",
+          "_styles": {
+            "B": {
+              "font-size": "15px"
+            }
+          }
         }
       ]
     }
