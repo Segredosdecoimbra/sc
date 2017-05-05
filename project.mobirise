@@ -25,7 +25,7 @@
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "file:///C:/Users/kathy/Desktop/Eme",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -269,7 +269,7 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_17-59-1-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-17-59-1-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -283,7 +283,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_17-59-2-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-17-59-2-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -297,7 +297,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_17-59-3-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-17-59-3-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -311,7 +311,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_17-59-4-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-17-59-4-2000x1500.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -325,7 +325,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-18-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-18-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -339,7 +339,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-18-2000x3001.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-18-2000x3001.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -353,7 +353,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-18-2000x2666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-18-2000x2666.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -395,7 +395,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-18-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-18-1-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -437,7 +437,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-23-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-23-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -451,7 +451,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/photo_2017-03-26_18-18-2000x1502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/photo-2017-03-26-18-18-2000x1502.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -1150,9 +1150,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Abril en Coimbra",
+                "title": "Feliz día de la madre",
                 "showText": true,
-                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + caña por 2,50€ (o 3€ con doble)",
+                "text": "Acércate a nuestra tienda el día 7 de mayo y descubrirás una oferta irresistible",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -1164,9 +1164,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Abril en Coimbra",
+                "title": "Mayo en Coimbra",
                 "showText": true,
-                "text": "Empanada (pato, vitela, frango, marisco o legumbre) + caña por 2,50€ (o 3€ con doble)",
+                "text": "Café + Barriga de Freira por 2,50€",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
@@ -1509,6 +1509,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts1-8",
           "_params": {
             "paddingTop": 3,
@@ -1540,12 +1545,7 @@
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dirección</b></span></font><br>Avenida de España nº26, Calle de Cervantes local 5E<br>Majadahonda, Madrid",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Contacto</b></span></font><br>\nEmail: SegredosDeCoimbra@gmail.com<br>Teléfono: 910 56 89 00<br>",
-          "text3": "",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text3": ""
         },
         {
           "_styles": {
@@ -1638,6 +1638,11 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "B": {
+              "font-size": "15px"
+            }
+          },
           "_anchor": "footer1-z",
           "_params": {
             "paddingTop": 2,
@@ -1651,12 +1656,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Horario</b><b><br></b><br>Lunes a Viernes: de 8:00 a 21:00<br>Sábados: de 9:30 a 21:00<br>Domingos y Festivos: de 9:30 a 15:30",
-          "_styles": {
-            "B": {
-              "font-size": "15px"
-            }
-          }
+          "text": "<b>Horario</b><b><br></b><br>Lunes a Viernes: de 8:00 a 21:00<br>Sábados: de 9:30 a 21:00<br>Domingos y Festivos: de 9:30 a 15:30"
         }
       ]
     }
